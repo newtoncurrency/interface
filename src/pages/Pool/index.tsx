@@ -198,7 +198,7 @@ export default function Pool() {
           <AutoColumn gap="lg" style={{ width: '100%' }}>
             <TitleRow style={{ marginTop: '1rem' }} padding={'0'}>
               <ThemedText.Body fontSize={'20px'}>
-                <Trans>Pools Overview</Trans>
+                <Trans>Positions Overview</Trans>
               </ThemedText.Body>
               <ButtonRow>
                 {showV2Features && (
